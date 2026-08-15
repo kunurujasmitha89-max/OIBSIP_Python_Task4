@@ -56,3 +56,12 @@ Add your OpenWeather API key before running the application.
 ## Outcome
 
 Successfully developed a functional Python Weather Dashboard that retrieves and displays real-time weather information.
+
+## Screenshots
+
+## Weather Dashboard
+
+![Weather Dashboard](screenshots/weather-dashboard.png)
+
+The screenshot shows the working Weather Dashboard with city search, temperature, weather condition, humidity, wind speed, pressure, visibility, sunrise, sunset, and other weather details.
+
