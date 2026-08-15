@@ -38,8 +38,10 @@ OIBSIP_Python_Task2/
 ├── weather.py
 ├── requirements.txt
 ├── README.md
-└── assets/
-    └── background.png
+├── assets/
+│   └── background.png
+└── screenshots/
+    └── weather-dashboard.png
 ```
 
 ## How to Run
