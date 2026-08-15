@@ -59,8 +59,6 @@ Successfully developed a functional Python Weather Dashboard that retrieves and 
 
 ## Screenshots
 
-### Weather Dashboard
-
-![Weather Dashboard](screenshots/weather-dashboard.png)
+![Weather Dashboard](./screenshots/weather-dashboard.png)
 
 The screenshot shows the working Weather Dashboard with city search, temperature, weather condition, humidity, wind speed, pressure, visibility, sunrise, sunset, and other weather details.
