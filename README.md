@@ -34,7 +34,7 @@ Develop a Python-based Weather Dashboard that displays real-time weather informa
 ## Project Structure
 
 ```text
-OIBSIP_Python_Task2/
+OIBSIP_Python_Task4/
 ├── weather.py
 ├── requirements.txt
 ├── README.md
